@@ -1,6 +1,6 @@
 #Front-end Web Development #Personal Portfolio #Lucas Ferreira de Souza #lucasferreirasouzadev@gmail.com
 
-##Resume ###This is an work made to improve my skills on front end development using basically only HTML, CSS and JS.
+##Resume ###This is an work made to improve my skills on front end development using basically only HTML and CSS.
 
 ##Concept ###As a web developer I tried to apply many few concepts in this project focused to create a functional and simple landing page.
 
